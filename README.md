@@ -9,6 +9,7 @@ A modern, desktop-based Billing and Invoice Generation System developed using Py
 - **Invoice Preview:** Generates a structured, neat text-based invoice inside the application.
 - **Clear All Data:** Reset the system instantly to process the next customer.
 
+
 ## 📸 Preview
 <img src="billing system.png" width="100%">
 
