@@ -11,7 +11,7 @@ A modern, desktop-based Billing and Invoice Generation System developed using Py
 
 
 ## 📸 Preview
-<img src="billing system.png" width="100%">
+<img src="Billing System.png" width="100%">
 
 ## Technologies Used
 - Python 3.x
